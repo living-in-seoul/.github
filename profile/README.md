@@ -60,7 +60,7 @@
 
 🎬 서비스 소개 영상 :
 
-📕 팀 노션 : [Seoulvival-FE/BE]([https://www.notion.so/eunspopol/Seoulvival-b1360ab47a9b44bca5a8c832649fe8af](https://www.notion.so/eunspopol/Seoulvival-b1360ab47a9b44bca5a8c832649fe8af?pvs=4)) <- 자세히 보고 싶다면 클릭!
+📕 팀 노션 : [Seoulvival-FE/BE]([https://www.notion.so/eunspopol/Seoulvival-b1360ab47a9b44bca5a8c832649fe8af](https://www.notion.so/eunspopol/Seoulvival-b1360ab47a9b44bca5a8c832649fe8af?pvs=4) <- 자세히 보고 싶다면 클릭!
 <br/>
 <br/>
 
