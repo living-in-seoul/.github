@@ -32,10 +32,11 @@
 
 ### 👩‍👩‍👧‍👧 서비스 개발 멤버 소개
 
-|            [강신범](https://github.com/kangsinbeom)             |            [김나영](https://github.com/nayoung3669)             |               [최은석](https://github.com/nonjk2)               |               [이채원](https://github.com/bbakzi)                |               [김정빈](https://github.com/kmg0485)               |
-| :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-| ![강신범](https://avatars.githubusercontent.com/u/83047601?v=4) | ![김나영](https://avatars.githubusercontent.com/u/70098144?v=4) | ![최은석](https://avatars.githubusercontent.com/u/85878391?v=4) | ![이채원](https://avatars.githubusercontent.com/u/131640279?v=4) | ![김정빈](https://avatars.githubusercontent.com/u/133299755?v=4) |
-|                              FRONT                              |                              FRONT                              |                              FRONT                              |                               BACK                               |                               BACK                               |
+|               [최은석](https://github.com/nonjk2)    |            [강신범](https://github.com/kangsinbeom)             |            [김나영](https://github.com/nayoung3669)             |               [백예진](https://github.com/nonjk2)               |               [이채원](https://github.com/bbakzi)                |               [김정빈](https://github.com/kmg0485) |
+| :-------------------------------------------------------------:| :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: 
+| ![최은석](https://avatars.githubusercontent.com/u/85878391?v=4) | ![강신범](https://avatars.githubusercontent.com/u/83047601?v=4) | ![김나영](https://avatars.githubusercontent.com/u/70098144?v=4) | <a href="b2_y_j@naver.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/85878391?v=4"/> </a>
+ | ![이채원](https://avatars.githubusercontent.com/u/131640279?v=4) | ![김정빈](https://avatars.githubusercontent.com/u/133299755?v=4) |
+|                              FRONT                              |                              FRONT                              |                              FRONT                              |                              DESIGNER                              |                               BACK                               |                               BACK                               |
 
 <br/>
 <br/>
